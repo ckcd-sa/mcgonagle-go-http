@@ -8,3 +8,4 @@ Step: build-step-git-source-0:
 {"level":"info","ts":1551897633.9145799,"logger":"fallback-logger","caller":"git-init/main.go:92","msg":"Successfully cloned \"https://github.com/ckcd-sa/environment-wyrmpeach-dev-staging.git\" @ \"792ba1d4095e6825cff41b7c71aca5893fb1f5df\" in path \"/workspace\""}
 Step: build-step-build:
 
+Adding missing Helm repo: jenkins-x http://chartmuseum.jenkins-x.io
