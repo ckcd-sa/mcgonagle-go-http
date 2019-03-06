@@ -1,0 +1,10 @@
+Step: build-step-credential-initializer:
+
+{"level":"warn","ts":1551897645.9523919,"logger":"fallback-logger","caller":"logging/config.go:65","msg":"Fetch GitHub commit ID from kodata failed: \"ref: refs/heads/test\" is not a valid GitHub commit ID"}
+{"level":"info","ts":1551897645.9545546,"logger":"fallback-logger","caller":"creds-init/main.go:40","msg":"Credentials initialized."}
+Step: build-step-git-source-0:
+
+{"level":"warn","ts":1551897646.5959067,"logger":"fallback-logger","caller":"logging/config.go:65","msg":"Fetch GitHub commit ID from kodata failed: \"ref: refs/heads/test\" is not a valid GitHub commit ID"}
+{"level":"info","ts":1551897646.8657346,"logger":"fallback-logger","caller":"git-init/main.go:92","msg":"Successfully cloned \"https://github.com/ckcd-sa/environment-wyrmpeach-dev-staging.git\" @ \"d7458643b72334540e6af2b1b04a2b5192833002\" in path \"/workspace\""}
+Step: build-step-build:
+
